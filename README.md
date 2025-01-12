@@ -1,4 +1,4 @@
-# rebekahthao
+# Rebekah Thao
 
 # 💫 About Me:
 👋 Hi, I’m Rebekah!<br>I'm passionate about data analytics and data visualization, and I'm always working on expanding my skills in these areas.<br>- 🌱 Currently learning SQL & Python<br>- 📫 Feel free to reach out: rbkthao@gmail.com<br>- 😄 Pronouns: She/Her<br>
